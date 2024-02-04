@@ -1,0 +1,14 @@
+http://localhost/tp3/ex1/Article.php
+http://localhost/tp3/ex1/Fournisseur.php
+
+=============================================
+http://localhost/tp3/ex2/authentification.html
+
+=============================================
+http://localhost/tp3/ex3/View_articleQ1.php
+http://localhost/tp3/Ex3/View_articleQ2.php
+
+=============================================
+http://localhost/tp3/ex4/View_articleQ2.php
+
+http://localhost/tp3/ex4/View_articleQ3.php

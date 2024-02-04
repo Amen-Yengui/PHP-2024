@@ -1,0 +1,7 @@
+http://localhost/tp2/ex1/authentification.html
+http://localhost/tp2/ex1/authentification2.html
+
+http://localhost/tp2/ex2/article.html
+
+
+http://localhost/tp2/Ex4/view_article.php

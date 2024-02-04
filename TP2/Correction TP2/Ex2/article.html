@@ -1,0 +1,41 @@
+<!DOCTYPE HTML>
+<html>
+
+<body>
+
+	<h3 align="center">
+		<font size="10" align="center">
+			<i><b>Saisir un article</b></i>
+		</font>
+	</h3><br><br>
+
+	<form action="article.php" method="GET">
+		<label for="ref">r&eacute;f&eacute;rence</label>:
+		<input name="ref" type="text" /><br>
+		<label for="libelle">libell&eacute;</label>:
+		<input name="libelle" type="text" />
+		<br>
+		<label for="four">Fournisseur</label>:
+		<select name="four">
+			<option value="fournisseur1" selected="selected">fournisseur1</option>
+			<option value="fournisseur2">fournisseur2</option>
+			<option value="fournisseur2">fournisseur3</option>
+			<option value="fournisseur2">fournisseur4</option>
+		</select>
+
+		<br><br>
+		<label for="PV">Point de vente</label><br />
+		<input type="checkbox" name="PV[]" value="Sfax">Sfax <br>
+		<input type="checkbox" name="PV[]" value="Gabes">Gabes
+		<br><br>
+		<label for="prix">Prix</label>: <input name="prix" type="text" /><br>
+		<label for="qtestock">Qt en stock</label>: <input name="qtestock" type="text" /><br>
+		<br><br>
+		<input type="submit" name="submit" value="Submit">
+
+
+	</form>
+
+</body>
+
+</html>
