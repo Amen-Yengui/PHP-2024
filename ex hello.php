@@ -11,7 +11,7 @@
 
     <?php
     //ligne de code PHP
-    echo " Hello \n World ss";
+    echo " Hello \n World";
     ?>
 </body>
 
